@@ -17,6 +17,7 @@ This repository contains a comprehensive text analysis tool that performs variou
 
 
 `git clone https://github.com/Antwa-sensei253/text-analysis-tool.git`
+### Go to directory
 `cd text-analysis-tool`
 
 ### Install the required packages:
